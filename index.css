@@ -45,12 +45,12 @@ button {
     border-radius: 5px;
 
 }
-bodyGuest {
+bodyAway {
     margin: 0;
     text-align: center;
 }
 
-.scoreGuest {
+.scoreAway {
     background: #0a0001;
     font-size: 90px;
     color: #F94F6D;
@@ -65,7 +65,7 @@ bodyGuest {
 
 }
 
-.containerGuest {
+.containerAway {
     display: flex;
     justify-content: space-around;
 }

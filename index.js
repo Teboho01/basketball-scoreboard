@@ -17,15 +17,15 @@ function home3() {
     let result1 = num1 += 3
     num1El.textContent = result1
 }
-function guest1() {
+function away1() {
     let result2 = num2 += 1
     num2El.textContent = result2
 }
-function guest2() {
+function away2() {
     let result2 = num2 += 2
     num2El.textContent = result2
 }
-function guest3() {
+function away3() {
     let result2 = num2 += 3
     num2El.textContent = result2
 }
